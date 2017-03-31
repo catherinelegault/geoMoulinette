@@ -14,4 +14,4 @@ Conçu pour les étudiants du cours [EDM5240](https://jhroy.gitbooks.io/edm5240-
 
 Répondez à toutes les questions que vous pose le script.<br>
 Il vous demandra notamment dans quelles colonnes se trouvent des éléments pouvant permettre de construire une adresse la plus complète possible (rue, ville, province, pays, code postal, etc.)<br>
-Avec ces informations, le script consulte l'[API de Google Maps](bit.ly/googeoapi) pour géocoder l'adresse de chacun de vos points et vous pond un deuxième fichier CSV contenant deux colonnes supplémentaires, une pour la latitude, l'autre pour la longitude.
+Avec ces informations, le script consulte l'[API de Google Maps](http://bit.ly/googeoapi) pour géocoder l'adresse de chacun de vos points et vous pond un deuxième fichier CSV contenant deux colonnes supplémentaires, une pour la latitude, l'autre pour la longitude.
