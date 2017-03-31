@@ -1,4 +1,5 @@
 # coding: utf-8
+# 2017 Jean-Hugues Roy, GNU GPL v3.
 
 import csv, os, glob, json, requests
 
